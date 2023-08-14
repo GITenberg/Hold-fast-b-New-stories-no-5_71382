@@ -1,0 +1,29 @@
+_repo: Hold-fast-b-New-stories-no-5_71382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2023-08-10'
+identifiers:
+  gutenberg: '71382'
+language: en
+pgterms:marc905: 20230807150905aloe
+pgterms:marc906: '1865'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hold fast : $b New stories no. 5'
+url: http://www.gutenberg.org/ebooks/71382
